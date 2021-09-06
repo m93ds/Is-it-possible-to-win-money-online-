@@ -1,8 +1,7 @@
 ###############################################################################
+#Matias A. Salgado Mancilla
 
 #Metodos de Analisis Multivariado 
-
-#Alumno: Matias A. Salgado Mancilla
 
 #BUSTABIT
 
@@ -100,9 +99,9 @@ for (i in 1:10) {
 
 #Represento visualmente la cantidad optima de clusters
 plot(1:10, suma2, type = "b", 
-     xlab = "Número de Clusters", 
+     xlab = "NÃºmero de Clusters", 
      ylab = "Suma de Cuadrados", col = "purple3",
-     main = "Cantidad Óptima de Clusters", cex.main = 1.5)
+     main = "Cantidad Ã“ptima de Clusters", cex.main = 1.5)
 
 #Cantidad optima de clusters = 5
 abline(v = 5, lwd=1.8, col='green4')
