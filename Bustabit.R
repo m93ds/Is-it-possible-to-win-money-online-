@@ -1,5 +1,4 @@
 ###############################################################################
-#Matias A. Salgado Mancilla
 
 #Metodos de Analisis Multivariado 
 
